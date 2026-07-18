@@ -3,7 +3,7 @@
 > An Engineering Story About How Distributed Systems Actually Evolve.
 
 <p align="center">
-<img src="cover.png" width="350">
+<img src="Cover.png" width="350">
 </p>
 
 ## Why this book?

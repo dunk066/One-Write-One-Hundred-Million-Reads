@@ -91,7 +91,7 @@ Each concept is introduced only when the architecture naturally demands it.
 
 ## Download
 
-The latest PDF is available from the Releases section.
+The latest PDF is available here https://github.com/dunk066/One-Write-One-Hundred-Million-Reads/blob/main/One-Write-One-Hundred-Million-Reads.pdf.
 
 ---
 
